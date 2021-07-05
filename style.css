@@ -40,6 +40,7 @@ h1{
 	padding: 15px 20px;
 	border-radius: 10px;
 	font-weight: 700;
+	color: white;
 	
 
 }
@@ -57,3 +58,9 @@ h1{
 	background-image: url(images/about-me-background.jpg);
 	background-repeat: no-repeat;
 }
+
+.middle{
+	text-align: center;
+}
+
+
