@@ -73,6 +73,7 @@ h1{
 	width: 33%;
 	margin-left: 80px;
 	padding-right: 60px;
+	margin-top: 10px;
 	
 }
 .one-third img{
@@ -81,4 +82,15 @@ h1{
 }
 .one-third p{
 	width: 60%;
+}
+
+
+.footer{
+	margin-top: 50px;
+	background-color: salmon;
+}
+
+.footer small{
+	text-align: center;
+	padding-left: 800px;
 }
