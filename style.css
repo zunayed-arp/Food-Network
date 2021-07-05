@@ -63,8 +63,22 @@ h1{
 	text-align: center;
 }
 
-
+/* Start of recipie title section */
 #recipe-para{
 	text-align: center;
+
+}
+
+.one-third{
+	width: 33%;
+	margin-left: 80px;
+	padding-right: 60px;
 	
+}
+.one-third img{
+	height: 50%;
+	width: 60%;
+}
+.one-third p{
+	width: 60%;
 }
