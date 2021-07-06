@@ -19,14 +19,10 @@ body {
 }
 
 .main-nav a:hover {
-  background-color: #ddd;
+  background-color:lightskyblue;
   color: black;
 }
 
-.main-nav a.hovering {
-  background-color: #04AA6D;
-  color: white;
-}
 /*end of navbar*/
 
 
@@ -79,6 +75,7 @@ h1 {
 .about-me-background {
   background-image: url(images/about-me-background.jpg);
   background-repeat: no-repeat;
+  width:auto;
 }
 
 .middle h1 {
@@ -134,15 +131,12 @@ h1 {
 
 
 #slogan {
-  padding-left: 500px;
-}
-
-#slogan1 {
-    padding-left: 590px;
+    padding-left: 700px;
     display: inline;
 	justify-content: center;
-  align-items: center;
+     align-items: center;
 }
+
 
 
 
