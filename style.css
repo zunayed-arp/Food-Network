@@ -4,26 +4,26 @@ body {
 }
 
 /* nav bar*/
-.topnav {
+.main-nav {
   overflow: hidden;
   background-color: brown;
 }
 
-.topnav a {
+.main-nav a {
   float: left;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 16px 18px;
   text-decoration: none;
   font-size: 20px;
 }
 
-.topnav a:hover {
+.main-nav a:hover {
   background-color: #ddd;
   color: black;
 }
 
-.topnav a.active {
+.main-nav a.hovering {
   background-color: #04AA6D;
   color: white;
 }
