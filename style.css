@@ -51,11 +51,18 @@ h1 {
 .half-screen-view img {
   width: 60%;
   height: 100%;
+ 
+}
+#reduce-size{
+height: 60%;
 }
 .half-screen-view p {
     display: block;
-    padding-bottom: 50px;
+    padding-bottom: 10px;
+	margin-bottom: 20px;
+	
 }
+
 
 
 .link-tag {
