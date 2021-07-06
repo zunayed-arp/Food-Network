@@ -114,6 +114,7 @@ height: 60%;
 .three-segment-display img {
   height: 80%;
   width: 100%;
+  border-radius: 20px;
 }
 .three-segment-display p {
   text-align: center;
@@ -142,6 +143,15 @@ height: 60%;
 .subscriber-count p{
 	text-align: center;
 }
+
+
+.contact-us{
+	box-shadow: 0 0  15;
+	background-image: linear-gradient(tomato,orange);
+	color: black;
+}
+
+
 
 .footer {
   background-color: black;
