@@ -146,9 +146,17 @@ height: 60%;
 
 
 .contact-us{
-	box-shadow: 0 0  15;
-	background-image: linear-gradient(tomato,orange);
-	color: black;
+	
+	width: 100%;
+	box-shadow: 0 0  15px goldenrod;
+
+
+}
+.contact-us h4{
+	text-align: center;
+}
+.contact-us p{
+	text-align: center;
 }
 
 
