@@ -22,6 +22,9 @@ body {
   background-color:lightskyblue;
   color: black;
 }
+.main-nav-right {
+  float: right;
+}
 
 /*end of navbar*/
 
@@ -51,7 +54,7 @@ h1 {
 }
 .half-screen-view p {
     display: block;
-    padding-bottom: 120px;
+    padding-bottom: 50px;
 }
 
 
@@ -108,7 +111,8 @@ h1 {
 .three-segment-display p {
   width: 60%;
 }
-.three-segment-display h1 {
+
+.three-segment-display h2 {
   padding-left: 50px;
 }
 .three-segment-display small {
@@ -127,14 +131,13 @@ h1 {
   color: white;
   justify-content: center;
   align-items: center;
+  padding: 40px 40px;
+
 }
 
 
-#slogan {
-    padding-left: 700px;
-    display: inline;
-	justify-content: center;
-     align-items: center;
+.footer p{
+	text-align: center;
 }
 
 
