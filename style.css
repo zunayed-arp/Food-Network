@@ -10,7 +10,7 @@ h1{
 
 	
 }
-.top-header-color{
+.colored-text{
 	color: orange;
 }
 .display-container {
@@ -19,22 +19,22 @@ h1{
 
 }
 
-.half-size{
+.half-screen-view{
 	width: 50%;
 	padding-top: 50px;
 	padding-left: 20px;
 	
 }
-.half-size img{
+.half-screen-view img{
 	width:80%;
 	height: 80%;
 }
-.half-size p{
+.half-screen-view p{
 	
 	padding-bottom: 100px;
 }
 
-.colored-button{
+.link-tag{
 	text-decoration: none;
 	background-image: linear-gradient(orange,tomato);
 	padding: 15px 20px;
@@ -44,7 +44,7 @@ h1{
 	
 
 }
-.top-section-background{
+.background-image-setting{
 	background-image: url(images/top-banner.jpg);
 	background-repeat: no-repeat;
 }
@@ -71,17 +71,19 @@ h1{
 
 .three-segment-display{
 	width: 33%;
-	margin-left: 80px;
-	padding-right: 60px;
+	margin: 80px 80px 80px 80px;
+	
 	margin-top: 10px;
 	
 }
 .three-segment-display img{
 	height: 50%;
-	width: 60%;
+	width: 100%;
+	
 }
 .three-segment-display p{
 	width: 60%;
+	
 }
 
 
@@ -96,7 +98,7 @@ h1{
 }
 
 .subscriber-count{
-margin: 40px 50px;
+margin: 80px 80px 80px 80px;
 box-shadow: 10px 10px 20px;
 border-radius: 30px;
 padding-bottom: 20px;
