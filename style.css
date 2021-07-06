@@ -10,9 +10,13 @@ body{
 	list-style-type: none;
 	margin:0px;
 	padding: 15px 10px;
-	background-color: salmon;
 	color: white;
+	display: block;
+	font-weight: 700;
+	text-decoration: ;
+	
 }
+
 
 
 h1{
@@ -119,15 +123,19 @@ padding: 20px 20px;
 
 
 .footer{
-	margin-top: 50px;
-	background-image: url(images/footer.png);
-	
-	margin: 50px 50px;
+	margin:0;
+	padding: 20px 20px;
+
+
+	background-color: black;
+	color: white;
 }
+
+
 
 
 .footer small{
 	text-align: center;
-	padding-left: 750px;
+	padding-left: 730px;
 	color: white;
 }
